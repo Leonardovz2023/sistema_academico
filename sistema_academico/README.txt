@@ -35,9 +35,9 @@ El proyecto sigue la estructura típica de Django, con los siguientes archivos y
 
 ## Para el profesor
 
-Profe aprobame por favor no tuve tiempo!
-Sino se puede bueno, se entiende...
-Prometo hacer una entrega decente.
+Si se puede aprobar seria genial para no perder el top 10.
+Sino se puede se entiende perfectamente profe!!
+
 No entiendo que estoy haciendo mal,
 pude replicar lo de la clase pero con el proyecto propio me perdi..
 
