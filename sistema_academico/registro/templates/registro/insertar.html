@@ -1,0 +1,21 @@
+<!-- registro/templates/registro/insertar.html -->
+
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Insertar nuevo registro</h1>
+  
+  <h2>Alumno</h2>
+  <form method="post">
+    {% csrf_token %}
+    {{ form_alumno.as_p }}
+    <button type="submit">Guardar</button>
+  </form>
+
+  <h2>Profesor</h2>
+  <form method="post">
+    {% csrf_token %}
+    {{ form_profesor.as_p }}
+    <button type="submit">Guardar</button>
+  </form>
+{% endblock %}
